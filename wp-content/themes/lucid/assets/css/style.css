@@ -1,0 +1,454 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,400i,600,700,900&display=swap');
+
+/* Global CSS */
+body{
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 14px;
+	line-height: 24px;
+}
+h1,h2,h3,h4,h5,h6{
+	font-family: 'Source Sans Pro', sans-serif;
+}
+a{
+	font-family: 'Source Sans Pro', sans-serif;
+}
+a:hover{
+	text-decoration: none;
+}
+
+
+/***************************************************
+
+**Global Css
+***************************************************/
+.sub-title{
+	font-size: 16px;
+	font-weight: 700;
+	text-transform: uppercase;
+	color: #008ed6;
+}
+.title{
+	font-size: 42px;
+	line-height: 46px;
+	font-weight: 300;
+	color: #fffefe;
+	margin-top: 20px; 
+}
+
+.divider-c{
+	width: 100%;
+	padding: 10px 0px;
+	background: url(../img/divider.png) center top no-repeat;
+}
+.divider-l{
+	width: 100%;
+	padding: 10px 0px;
+	background: url(../img/divider.png) center left no-repeat;
+}
+.btn-primary{
+	background: transparent;
+	border: 1px solid #fffefe;
+	color: #fffefe;
+	padding: 10px 30px;
+	border-radius: 2px;
+	font-weight: 300;
+	text-transform: uppercase;
+	font-size: 14px;
+}
+.btn-primary:hover{
+	background: #008ed6;
+	border: 1px solid #008ed6;
+	color: #fffefe;
+}
+.no-padding{
+	padding: 0;
+}
+
+/**************************************************
+	** Header Section code here
+**************************************************/
+
+.header-section{
+	width: 100%;
+	padding: 0px;
+	
+	
+	background-size: cover;
+}
+.header-section .bg-light {
+    background-color: transparent !important;
+}
+.header-section .navbar-light .navbar-nav .active>.nav-link{
+    color: #fffefe;
+    background: url(../img/divider.png) center bottom no-repeat;
+    color: #fffefe;
+    font-weight: 600;
+
+}
+
+.header-section .navbar-light .navbar-nav .menu-item {
+    color: #fffefe;
+    font-size: 14px;
+    font-weight: 600;
+    margin: 0px 12px 0px 12px;
+}
+.header-section .navbar-light .navbar-nav .menu-item a{
+    color: #fff;
+    
+}
+ .header-section .navbar-light .navbar-nav .menu-item a:hover {
+    color: #008ed6;
+    padding-bottom: 10px;
+    background: url(../img/divider.png) center bottom no-repeat;
+}
+
+
+/**************************************************
+	** Banner Code goes here....
+***************************************************/
+.banner-content{
+	width: 100%;
+	padding: 250px 0px;
+}
+.banner-content p{
+	font-size: 14px;
+	line-height: 24px;
+	font-weight: 300;
+	color: #999999;
+	margin-top: 20px;
+}
+.banner-content .btn{
+	margin-top: 40px;
+	margin-right: 20px;
+}
+.banner-content .extra{
+	margin-left: 15px;
+}
+
+/**************************************************
+	** Features Code goes here....
+***************************************************/
+
+.features-section{
+	width: 100%;
+	padding: 80px 0px; 
+}
+.features-section .sub-title{
+	text-align: center;
+}
+.features-section .title{
+	text-align: center;
+	color: #000;
+	margin-top:10px;
+	margin-bottom: 25px;
+}
+
+.inner-content{
+	width: 100%;
+	padding: 42px 40px;
+	text-align: center;
+}
+.inner-content .icon-box{
+	width: 70px;
+	height: 70px;
+	line-height: 70px;
+	border-radius: 100%;
+	border: 1px solid #eee;
+	text-align: center; 
+	margin: 0 auto;
+}
+.inner-content .icon-box .fa{
+	font-size: 30px;
+    line-height: 70px;
+	color: #008ed6;
+}
+.inner-content h4{
+	font-size: 24px;
+	line-height: 26px;
+	font-weight: 500;
+	color: #000;
+	margin: 20px 0px 10px 0px;
+}
+.inner-content p{
+	font-size: 14px;
+	font-weight: 300;
+	color: #aaa;
+}
+
+.about-section{
+	border-top: 1px solid #ededed;
+	width: 100%;
+	padding: 80px 0px;
+}
+.about-section .title{
+	color: #000;
+	margin-top: 10px;
+}
+.about-section .divider-l{
+	margin-bottom: 20px;
+}
+.about-section p{
+	font-size: 14px;
+	line-height: 24px;
+	font-weight: 300;
+	color: #aaa;
+}
+.about-section ul{
+	margin: 0px;
+	padding: 25px 0px 0px 0px;
+}
+
+.about-section ul li{
+	list-style: none;
+	display: block;
+	font-size: 18px;
+	color: #000;
+	line-height: 40px;
+}
+
+.about-section ul li .fa{
+	padding-right: 15px;
+	color: #008ed6;
+}
+
+/* About Phone Section CSS */
+.about-phone{
+	background: #f2f2f2;
+	padding: 80px 0;
+}
+.content-middle{
+	padding: 75px 0;
+}
+.about-phone .title{
+	color: #000;
+	margin-top: 10px;
+}
+.about-phone .divider-l{
+	margin-bottom: 20px;
+}
+.about-phone p{
+	font-size: 18px;
+	line-height: 24px;
+	font-weight: 300;
+	color: #999999;
+}
+
+/* Testimonials Section Start */
+.testimonial-section{
+	padding: 120px 0;
+	background: url(../img/testimonials.png) no-repeat center;
+	background-size: cover;
+}
+.testimonial-section .title{
+	color: #fff;
+	margin-top: 10px;
+}
+.test-client{
+	height: 60px;
+	width: 60px;
+	border-radius: 50%;
+}
+.testimonial-section .divider-c{
+	margin-top: 20px;
+}
+.testimonials-content{
+	margin-top: 50px;
+}
+.owl-carousel .item h4{
+	font-family: 'Source Sans Pro', sans-serif;
+	color: #fff;
+	font-weight: 300;
+    font-style: italic;
+    padding: 0 15px;
+}
+.client-details{
+	margin-top: 25px;
+}
+.client-details h5{
+	color: #fff;
+    font-size: 16px;
+}
+.client-details h6{
+	color: #fff;
+    font-size: 18px;
+    font-weight: 900;
+}
+.owl-theme .owl-nav.disabled+.owl-dots {
+    margin-top: 50px;
+}
+
+/* Download Section CSS */
+.download-section{
+	background: #15141a;
+	padding: 70px 0;
+}
+.download-section h1{
+	font-size: 36px;
+	color: #fff;
+	font-weight: 300;
+}
+.download-section h1 span{
+	font-weight: 700;
+}
+.btn-download{
+	background: #008ed6;
+	border: 1px solid #008ed6;
+	color: #fffefe;
+	padding: 10px 30px;
+	border-radius: 2px;
+	font-weight: 300;
+	text-transform: uppercase;
+	font-size: 14px;
+	margin-left: 5px;
+}
+.btn-download:hover{
+	background: transparent;
+	border: 1px solid #008ed6;
+	color: #fffefe;
+}
+
+/* Pricing Section CSS */
+.pricing-section{
+	padding: 80px 0;
+}
+.pricing-section .title{
+	color: #000;
+    margin-top: 10px;
+}
+.pricing-section .divider-c{
+	margin-bottom: 20px;
+}
+
+.pricing-table{
+	border: 1px solid #ededed;
+}
+.table-heading{
+	border-bottom: 1px solid #ededed;
+	padding: 25px 20px;
+	transition: 0.3s ease-in-out;
+}
+.table-heading h2{
+	color: #333;
+	font-size: 36px;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+.table-pricing{
+	border-bottom: 1px solid #ededed;
+	padding: 25px 20px;
+	transition: 0.3s ease-in-out;
+}
+.table-pricing .price-tag{
+	position: relative;
+    font-size: 72px;
+    font-weight: 700;
+    display: block;
+    padding: 25px 0;
+    margin-bottom: 15px;
+    color: #161616;
+}
+sup {
+    top: -30px;
+}
+.table-pricing .price-tag sup{
+	font-size: 20px;
+}
+.table-pricing p{
+	margin: 0;
+    color: #bbb;
+    font-size: 18px;
+    line-height: 10px;
+}
+.pricing-details{
+	padding: 25px 20px 35px;
+	transition: 0.3s ease-in-out;
+}
+.pricing-details p{
+	color: #bbb;
+    font-size: 18px;
+    margin-bottom: 40px;
+}
+.pricing-details p span{
+	color: #008ed6;
+}
+.btn-pricing{
+	color: #008ed6;
+	border: 1px solid #ededed;
+	padding: 8px 20px;
+	font-size: 20px;
+	text-transform: uppercase;
+	font-weight: 600;
+	transition: 0.3s ease-in-out;
+}
+.pricing-table:hover .table-heading h2{
+	color: #008ed6;
+	cursor: pointer;
+}
+.pricing-table:hover .table-pricing{
+	background: #008ed6;
+	color: #fff;
+	cursor: pointer;
+}
+.pricing-table:hover .table-pricing p{
+	color: #fff;
+	cursor: pointer;
+}
+.pricing-table:hover .btn-pricing{
+	background: #008ed6;
+	color: #fff;
+	cursor: pointer;
+}
+footer{
+	background: #15141a;
+	padding: 70px 0px;
+}
+.footer-widget p{
+	color: #fff;
+	margin-top: 20px;
+	line-height: 20px;
+
+}
+.footer-widget ul li{
+   list-style: none;
+   line-height: 25px;
+}
+.footer-widget ul li a {
+	color: #fff;
+	font-size: 17px;
+	line-height: 26px;
+	transition: 0.3s ease-in-out;
+	
+}
+.footer-widget ul li a:hover .fa{
+	margin-left: 15px;
+	transition: 0.5s ease-in-out;
+}
+.bottom-footer{
+    background: #15141a;
+    padding: 20px 0px;
+    text-align: center;
+    border-top: 1px solid #fff;
+}
+.social-media ul{
+	padding: 0;
+}
+.social-media ul li{
+	list-style: none;
+	display: inline;
+	margin: 0 25px;
+	font-size: 18px;
+	
+}
+.social-media ul li a .fa{
+	color: #444348;
+	font-size: 19px;
+	transition: 0.3s ease-in-out;
+}
+.social-media ul li a:hover .fa{
+	color: #008ed6;
+}
+.bottom-footer p{
+	color: #fff;
+	font-size: 16px;
+
+}

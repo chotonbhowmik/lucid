@@ -1,0 +1,1429 @@
+{
+    "version": "0.4",
+    "title": "Property List",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "491d50cb",
+            "settings": {
+                "height": "min-height",
+                "custom_height": {
+                    "unit": "px",
+                    "size": "350",
+                    "sizes": []
+                },
+                "background_background": "classic",
+                "background_image": {
+                    "url": "http:\/\/templatekit.brothergrounds.com\/astana\/wp-content\/uploads\/sites\/6\/2020\/12\/Image-P3LQ6HF.jpg",
+                    "id": "3228"
+                },
+                "background_position": "center center",
+                "background_size": "cover",
+                "background_overlay_background": "classic",
+                "background_overlay_color": "#2C3E50",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": "0.4",
+                    "sizes": []
+                },
+                "__globals__": {
+                    "background_overlay_color": ""
+                }
+            },
+            "elements": [
+                {
+                    "id": "d6f8701",
+                    "settings": {
+                        "_column_size": "100"
+                    },
+                    "elements": [
+                        {
+                            "id": "6b619c7a",
+                            "settings": {
+                                "title": "property",
+                                "header_size": "h1",
+                                "typography_typography": "custom",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=75c6033"
+                                },
+                                "title_color": "#FFFFFF",
+                                "typography_line_height": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "align": "center",
+                                "_animation": "fadeInDown"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                }
+            ],
+            "isInner": "",
+            "elType": "section"
+        },
+        {
+            "id": "2f06d2b7",
+            "settings": {
+                "layout": "full_width",
+                "gap": "wider",
+                "padding": {
+                    "unit": "px",
+                    "top": "96",
+                    "right": "0",
+                    "bottom": "96",
+                    "left": "0",
+                    "isLinked": ""
+                }
+            },
+            "elements": [
+                {
+                    "id": "7a41bef7",
+                    "settings": {
+                        "_column_size": "100"
+                    },
+                    "elements": [
+                        {
+                            "id": "5f7c34b3",
+                            "settings": {
+                                "structure": "30"
+                            },
+                            "elements": [
+                                {
+                                    "id": "bef352",
+                                    "settings": {
+                                        "_column_size": "33",
+                                        "_inline_size": "15"
+                                    },
+                                    "elements": [],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "78245847",
+                                    "settings": {
+                                        "_column_size": "33",
+                                        "_inline_size": "69.333"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "4b4058cb",
+                                            "settings": {
+                                                "title": "Featured property",
+                                                "align": "center",
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "24072e6a",
+                                            "settings": {
+                                                "align": "center",
+                                                "__globals__": {
+                                                    "text_color": "globals\/colors?id=primary"
+                                                },
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "38e3e856",
+                                    "settings": {
+                                        "_column_size": "33",
+                                        "_inline_size": "15"
+                                    },
+                                    "elements": [],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": "1",
+                            "elType": "section"
+                        },
+                        {
+                            "id": "52068552",
+                            "settings": {
+                                "structure": "30",
+                                "gap": "wider",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "24",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": ""
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "2d1775b4",
+                                    "settings": {
+                                        "_column_size": "33"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "604757e4",
+                                            "settings": {
+                                                "skin": "cover",
+                                                "bg_image": {
+                                                    "url": "http:\/\/templatekit.brothergrounds.com\/astana\/wp-content\/uploads\/sites\/6\/2020\/12\/Image-GS5ETYW.png",
+                                                    "id": "2413"
+                                                },
+                                                "title": "",
+                                                "description": "",
+                                                "button": "See Detail",
+                                                "min-height": {
+                                                    "unit": "px",
+                                                    "size": "290",
+                                                    "sizes": []
+                                                },
+                                                "button_text_color": "#02010100",
+                                                "button_background_color": "#02010100",
+                                                "button_border_color": "#02010100",
+                                                "content_animation": "shrink",
+                                                "transformation": "",
+                                                "__globals__": {
+                                                    "button_hover_text_color": "globals\/colors?id=75c6033",
+                                                    "button_hover_border_color": "globals\/colors?id=75c6033"
+                                                },
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "call-to-action",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "7c65a2d6",
+                                            "settings": {
+                                                "title": "Vermella  Land , Leicester",
+                                                "header_size": "h5",
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "3dfdafc0",
+                                            "settings": {
+                                                "title": "$409,900",
+                                                "header_size": "h3",
+                                                "__globals__": {
+                                                    "title_color": "globals\/colors?id=accent"
+                                                },
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "50e768c5",
+                                            "settings": {
+                                                "view": "inline",
+                                                "icon_list": [
+                                                    {
+                                                        "text": "300 sq ft",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-ruler-combined",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "d7eaf43"
+                                                    },
+                                                    {
+                                                        "text": "2  Beds",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-bed",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "8bbdac5"
+                                                    },
+                                                    {
+                                                        "text": "2 Baths",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-bath",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "9c923b8"
+                                                    }
+                                                ],
+                                                "icon_typography_typography": "custom",
+                                                "__globals__": {
+                                                    "icon_color": "globals\/colors?id=secondary",
+                                                    "text_color": "globals\/colors?id=primary"
+                                                },
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "icon-list",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "64628c84",
+                                    "settings": {
+                                        "_column_size": "33"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "284e14b7",
+                                            "settings": {
+                                                "skin": "cover",
+                                                "bg_image": {
+                                                    "url": "http:\/\/templatekit.brothergrounds.com\/astana\/wp-content\/uploads\/sites\/6\/2020\/12\/Image-P9JZWED.jpg",
+                                                    "id": "3229"
+                                                },
+                                                "title": "",
+                                                "description": "",
+                                                "button": "See Detail",
+                                                "min-height": {
+                                                    "unit": "px",
+                                                    "size": "290",
+                                                    "sizes": []
+                                                },
+                                                "button_text_color": "#02010100",
+                                                "button_background_color": "#02010100",
+                                                "button_border_color": "#02010100",
+                                                "content_animation": "shrink",
+                                                "transformation": "",
+                                                "__globals__": {
+                                                    "button_hover_text_color": "globals\/colors?id=75c6033",
+                                                    "button_hover_border_color": "globals\/colors?id=75c6033"
+                                                },
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "call-to-action",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "471854d",
+                                            "settings": {
+                                                "title": "Monte Toreno , Birmingham",
+                                                "header_size": "h5",
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "4d4b089b",
+                                            "settings": {
+                                                "title": "$409,900",
+                                                "header_size": "h3",
+                                                "__globals__": {
+                                                    "title_color": "globals\/colors?id=accent"
+                                                },
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "86c22e9",
+                                            "settings": {
+                                                "view": "inline",
+                                                "icon_list": [
+                                                    {
+                                                        "text": "300 sq ft",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-ruler-combined",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "d7eaf43"
+                                                    },
+                                                    {
+                                                        "text": "2  Beds",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-bed",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "8bbdac5"
+                                                    },
+                                                    {
+                                                        "text": "2 Baths",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-bath",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "9c923b8"
+                                                    }
+                                                ],
+                                                "icon_typography_typography": "custom",
+                                                "__globals__": {
+                                                    "icon_color": "globals\/colors?id=secondary",
+                                                    "text_color": "globals\/colors?id=primary"
+                                                },
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "icon-list",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "c07f304",
+                                    "settings": {
+                                        "_column_size": "33"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "67818809",
+                                            "settings": {
+                                                "skin": "cover",
+                                                "bg_image": {
+                                                    "url": "http:\/\/templatekit.brothergrounds.com\/astana\/wp-content\/uploads\/sites\/6\/2020\/12\/Image-H9H54VC.png",
+                                                    "id": "1488"
+                                                },
+                                                "title": "",
+                                                "description": "",
+                                                "button": "See Detail",
+                                                "min-height": {
+                                                    "unit": "px",
+                                                    "size": "290",
+                                                    "sizes": []
+                                                },
+                                                "button_text_color": "#02010100",
+                                                "button_background_color": "#02010100",
+                                                "button_border_color": "#02010100",
+                                                "content_animation": "shrink",
+                                                "transformation": "",
+                                                "__globals__": {
+                                                    "button_hover_text_color": "globals\/colors?id=75c6033",
+                                                    "button_hover_border_color": "globals\/colors?id=75c6033"
+                                                },
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "call-to-action",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "719e2701",
+                                            "settings": {
+                                                "title": "Monte View, Manchester",
+                                                "header_size": "h5",
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "5dff2d1f",
+                                            "settings": {
+                                                "title": "$409,900",
+                                                "header_size": "h3",
+                                                "__globals__": {
+                                                    "title_color": "globals\/colors?id=accent"
+                                                },
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "3517a2fb",
+                                            "settings": {
+                                                "view": "inline",
+                                                "icon_list": [
+                                                    {
+                                                        "text": "300 sq ft",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-ruler-combined",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "d7eaf43"
+                                                    },
+                                                    {
+                                                        "text": "2  Beds",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-bed",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "8bbdac5"
+                                                    },
+                                                    {
+                                                        "text": "2 Baths",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-bath",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "9c923b8"
+                                                    }
+                                                ],
+                                                "icon_typography_typography": "custom",
+                                                "__globals__": {
+                                                    "icon_color": "globals\/colors?id=secondary",
+                                                    "text_color": "globals\/colors?id=primary"
+                                                },
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "icon-list",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": "1",
+                            "elType": "section"
+                        },
+                        {
+                            "id": "12111efe",
+                            "settings": {
+                                "structure": "30",
+                                "gap": "wider",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "24",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": ""
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "2e048a82",
+                                    "settings": {
+                                        "_column_size": "33"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "28f151eb",
+                                            "settings": {
+                                                "skin": "cover",
+                                                "bg_image": {
+                                                    "url": "http:\/\/templatekit.brothergrounds.com\/astana\/wp-content\/uploads\/sites\/6\/2020\/12\/Image-E3A7NAJ.png",
+                                                    "id": "1460"
+                                                },
+                                                "title": "",
+                                                "description": "",
+                                                "button": "See Detail",
+                                                "min-height": {
+                                                    "unit": "px",
+                                                    "size": "290",
+                                                    "sizes": []
+                                                },
+                                                "button_text_color": "#02010100",
+                                                "button_background_color": "#02010100",
+                                                "button_border_color": "#02010100",
+                                                "content_animation": "shrink",
+                                                "transformation": "",
+                                                "__globals__": {
+                                                    "button_hover_text_color": "globals\/colors?id=75c6033",
+                                                    "button_hover_border_color": "globals\/colors?id=75c6033"
+                                                },
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "call-to-action",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "6590d580",
+                                            "settings": {
+                                                "title": "Malta Residence , Leicester",
+                                                "header_size": "h5",
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "7de92770",
+                                            "settings": {
+                                                "title": "$409,900",
+                                                "header_size": "h3",
+                                                "__globals__": {
+                                                    "title_color": "globals\/colors?id=accent"
+                                                },
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "644eac0d",
+                                            "settings": {
+                                                "view": "inline",
+                                                "icon_list": [
+                                                    {
+                                                        "text": "300 sq ft",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-ruler-combined",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "d7eaf43"
+                                                    },
+                                                    {
+                                                        "text": "2  Beds",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-bed",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "8bbdac5"
+                                                    },
+                                                    {
+                                                        "text": "2 Baths",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-bath",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "9c923b8"
+                                                    }
+                                                ],
+                                                "icon_typography_typography": "custom",
+                                                "__globals__": {
+                                                    "icon_color": "globals\/colors?id=secondary",
+                                                    "text_color": "globals\/colors?id=primary"
+                                                },
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "icon-list",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "1bf86fc5",
+                                    "settings": {
+                                        "_column_size": "33"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "7bf737c9",
+                                            "settings": {
+                                                "skin": "cover",
+                                                "bg_image": {
+                                                    "url": "http:\/\/templatekit.brothergrounds.com\/astana\/wp-content\/uploads\/sites\/6\/2020\/12\/Image-6CEM7K4.jpg",
+                                                    "id": "3219"
+                                                },
+                                                "title": "",
+                                                "description": "",
+                                                "button": "See Detail",
+                                                "min-height": {
+                                                    "unit": "px",
+                                                    "size": "290",
+                                                    "sizes": []
+                                                },
+                                                "button_text_color": "#02010100",
+                                                "button_background_color": "#02010100",
+                                                "button_border_color": "#02010100",
+                                                "content_animation": "shrink",
+                                                "transformation": "",
+                                                "__globals__": {
+                                                    "button_hover_text_color": "globals\/colors?id=75c6033",
+                                                    "button_hover_border_color": "globals\/colors?id=75c6033"
+                                                },
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "call-to-action",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "5937136",
+                                            "settings": {
+                                                "title": "Monte Rush , Birmingham",
+                                                "header_size": "h5",
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "35977d53",
+                                            "settings": {
+                                                "title": "$409,900",
+                                                "header_size": "h3",
+                                                "__globals__": {
+                                                    "title_color": "globals\/colors?id=accent"
+                                                },
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "262d1765",
+                                            "settings": {
+                                                "view": "inline",
+                                                "icon_list": [
+                                                    {
+                                                        "text": "300 sq ft",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-ruler-combined",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "d7eaf43"
+                                                    },
+                                                    {
+                                                        "text": "2  Beds",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-bed",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "8bbdac5"
+                                                    },
+                                                    {
+                                                        "text": "2 Baths",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-bath",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "9c923b8"
+                                                    }
+                                                ],
+                                                "icon_typography_typography": "custom",
+                                                "__globals__": {
+                                                    "icon_color": "globals\/colors?id=secondary",
+                                                    "text_color": "globals\/colors?id=primary"
+                                                },
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "icon-list",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "5c22375f",
+                                    "settings": {
+                                        "_column_size": "33"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "384f8ed5",
+                                            "settings": {
+                                                "skin": "cover",
+                                                "bg_image": {
+                                                    "url": "http:\/\/templatekit.brothergrounds.com\/astana\/wp-content\/uploads\/sites\/6\/2020\/12\/Image-PLMHMA7.jpg",
+                                                    "id": "3233"
+                                                },
+                                                "title": "",
+                                                "description": "",
+                                                "button": "See Detail",
+                                                "min-height": {
+                                                    "unit": "px",
+                                                    "size": "290",
+                                                    "sizes": []
+                                                },
+                                                "button_text_color": "#02010100",
+                                                "button_background_color": "#02010100",
+                                                "button_border_color": "#02010100",
+                                                "content_animation": "shrink",
+                                                "transformation": "",
+                                                "__globals__": {
+                                                    "button_hover_text_color": "globals\/colors?id=75c6033",
+                                                    "button_hover_border_color": "globals\/colors?id=75c6033"
+                                                },
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "call-to-action",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "730100e2",
+                                            "settings": {
+                                                "title": "Viu Park, Manchester",
+                                                "header_size": "h5",
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "749119ce",
+                                            "settings": {
+                                                "title": "$409,900",
+                                                "header_size": "h3",
+                                                "__globals__": {
+                                                    "title_color": "globals\/colors?id=accent"
+                                                },
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "6b611474",
+                                            "settings": {
+                                                "view": "inline",
+                                                "icon_list": [
+                                                    {
+                                                        "text": "300 sq ft",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-ruler-combined",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "d7eaf43"
+                                                    },
+                                                    {
+                                                        "text": "2  Beds",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-bed",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "8bbdac5"
+                                                    },
+                                                    {
+                                                        "text": "2 Baths",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-bath",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "9c923b8"
+                                                    }
+                                                ],
+                                                "icon_typography_typography": "custom",
+                                                "__globals__": {
+                                                    "icon_color": "globals\/colors?id=secondary",
+                                                    "text_color": "globals\/colors?id=primary"
+                                                },
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "icon-list",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": "1",
+                            "elType": "section"
+                        },
+                        {
+                            "id": "765a139c",
+                            "settings": {
+                                "structure": "30",
+                                "gap": "wider",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "24",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": ""
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "2f9b8356",
+                                    "settings": {
+                                        "_column_size": "33"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "1d66c90",
+                                            "settings": {
+                                                "skin": "cover",
+                                                "bg_image": {
+                                                    "url": "http:\/\/templatekit.brothergrounds.com\/astana\/wp-content\/uploads\/sites\/6\/2020\/12\/Image-7AS7RFB.jpg",
+                                                    "id": "3220"
+                                                },
+                                                "title": "",
+                                                "description": "",
+                                                "button": "See Detail",
+                                                "min-height": {
+                                                    "unit": "px",
+                                                    "size": "290",
+                                                    "sizes": []
+                                                },
+                                                "button_text_color": "#02010100",
+                                                "button_background_color": "#02010100",
+                                                "button_border_color": "#02010100",
+                                                "content_animation": "shrink",
+                                                "transformation": "",
+                                                "__globals__": {
+                                                    "button_hover_text_color": "globals\/colors?id=75c6033",
+                                                    "button_hover_border_color": "globals\/colors?id=75c6033"
+                                                },
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "call-to-action",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "7c1e5dd1",
+                                            "settings": {
+                                                "title": "Salford Residence , Manchester",
+                                                "header_size": "h5",
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "2db6c3ba",
+                                            "settings": {
+                                                "title": "$409,900",
+                                                "header_size": "h3",
+                                                "__globals__": {
+                                                    "title_color": "globals\/colors?id=accent"
+                                                },
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "235520cd",
+                                            "settings": {
+                                                "view": "inline",
+                                                "icon_list": [
+                                                    {
+                                                        "text": "300 sq ft",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-ruler-combined",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "d7eaf43"
+                                                    },
+                                                    {
+                                                        "text": "2  Beds",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-bed",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "8bbdac5"
+                                                    },
+                                                    {
+                                                        "text": "2 Baths",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-bath",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "9c923b8"
+                                                    }
+                                                ],
+                                                "icon_typography_typography": "custom",
+                                                "__globals__": {
+                                                    "icon_color": "globals\/colors?id=secondary",
+                                                    "text_color": "globals\/colors?id=primary"
+                                                },
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "icon-list",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "51f82ac7",
+                                    "settings": {
+                                        "_column_size": "33"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "2448ecd1",
+                                            "settings": {
+                                                "skin": "cover",
+                                                "bg_image": {
+                                                    "url": "http:\/\/templatekit.brothergrounds.com\/astana\/wp-content\/uploads\/sites\/6\/2020\/12\/Image-UMM39MS.jpg",
+                                                    "id": "3238"
+                                                },
+                                                "title": "",
+                                                "description": "",
+                                                "button": "See Detail",
+                                                "min-height": {
+                                                    "unit": "px",
+                                                    "size": "290",
+                                                    "sizes": []
+                                                },
+                                                "button_text_color": "#02010100",
+                                                "button_background_color": "#02010100",
+                                                "button_border_color": "#02010100",
+                                                "content_animation": "shrink",
+                                                "transformation": "",
+                                                "__globals__": {
+                                                    "button_hover_text_color": "globals\/colors?id=75c6033",
+                                                    "button_hover_border_color": "globals\/colors?id=75c6033"
+                                                },
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "call-to-action",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "3d354b9d",
+                                            "settings": {
+                                                "title": "Fulham Residence , London",
+                                                "header_size": "h5",
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "5129e0b",
+                                            "settings": {
+                                                "title": "$409,900",
+                                                "header_size": "h3",
+                                                "__globals__": {
+                                                    "title_color": "globals\/colors?id=accent"
+                                                },
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "6c3b0687",
+                                            "settings": {
+                                                "view": "inline",
+                                                "icon_list": [
+                                                    {
+                                                        "text": "300 sq ft",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-ruler-combined",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "d7eaf43"
+                                                    },
+                                                    {
+                                                        "text": "2  Beds",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-bed",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "8bbdac5"
+                                                    },
+                                                    {
+                                                        "text": "2 Baths",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-bath",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "9c923b8"
+                                                    }
+                                                ],
+                                                "icon_typography_typography": "custom",
+                                                "__globals__": {
+                                                    "icon_color": "globals\/colors?id=secondary",
+                                                    "text_color": "globals\/colors?id=primary"
+                                                },
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "icon-list",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "2fd79a9a",
+                                    "settings": {
+                                        "_column_size": "33"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "4703e3ec",
+                                            "settings": {
+                                                "skin": "cover",
+                                                "bg_image": {
+                                                    "url": "http:\/\/templatekit.brothergrounds.com\/astana\/wp-content\/uploads\/sites\/6\/2020\/12\/Image-PKZK4BT.jpg",
+                                                    "id": "3232"
+                                                },
+                                                "title": "",
+                                                "description": "",
+                                                "button": "See Detail",
+                                                "min-height": {
+                                                    "unit": "px",
+                                                    "size": "290",
+                                                    "sizes": []
+                                                },
+                                                "button_text_color": "#02010100",
+                                                "button_background_color": "#02010100",
+                                                "button_border_color": "#02010100",
+                                                "content_animation": "shrink",
+                                                "transformation": "",
+                                                "__globals__": {
+                                                    "button_hover_text_color": "globals\/colors?id=75c6033",
+                                                    "button_hover_border_color": "globals\/colors?id=75c6033"
+                                                },
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "call-to-action",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "6c37089e",
+                                            "settings": {
+                                                "title": "Brentford Park, London",
+                                                "header_size": "h5",
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "4555d6d9",
+                                            "settings": {
+                                                "title": "$409,900",
+                                                "header_size": "h3",
+                                                "__globals__": {
+                                                    "title_color": "globals\/colors?id=accent"
+                                                },
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "28484885",
+                                            "settings": {
+                                                "view": "inline",
+                                                "icon_list": [
+                                                    {
+                                                        "text": "300 sq ft",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-ruler-combined",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "d7eaf43"
+                                                    },
+                                                    {
+                                                        "text": "2  Beds",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-bed",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "8bbdac5"
+                                                    },
+                                                    {
+                                                        "text": "2 Baths",
+                                                        "selected_icon": {
+                                                            "value": "fas fa-bath",
+                                                            "library": "fa-solid"
+                                                        },
+                                                        "_id": "9c923b8"
+                                                    }
+                                                ],
+                                                "icon_typography_typography": "custom",
+                                                "__globals__": {
+                                                    "icon_color": "globals\/colors?id=secondary",
+                                                    "text_color": "globals\/colors?id=primary"
+                                                },
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "icon-list",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": "1",
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                }
+            ],
+            "isInner": "",
+            "elType": "section"
+        },
+        {
+            "id": "65808ede",
+            "settings": {
+                "layout": "full_width",
+                "height": "min-height",
+                "background_background": "classic",
+                "background_image": {
+                    "url": "http:\/\/templatekit.brothergrounds.com\/astana\/wp-content\/uploads\/sites\/6\/2020\/12\/Image-E6ZFMJ4.png",
+                    "id": "1492"
+                },
+                "background_position": "center center",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "background_overlay_background": "classic",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": "0.8",
+                    "sizes": []
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "96",
+                    "right": "0",
+                    "bottom": "96",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "__globals__": {
+                    "background_overlay_color": "globals\/colors?id=primary"
+                }
+            },
+            "elements": [
+                {
+                    "id": "63766587",
+                    "settings": {
+                        "_column_size": "100"
+                    },
+                    "elements": [
+                        {
+                            "id": "60c62268",
+                            "settings": {
+                                "structure": "20"
+                            },
+                            "elements": [
+                                {
+                                    "id": "ee9723b",
+                                    "settings": {
+                                        "_column_size": "50"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "34a167bf",
+                                            "settings": {
+                                                "title": "Play intro",
+                                                "header_size": "div",
+                                                "typography_typography": "custom",
+                                                "typography_font_weight": "500",
+                                                "typography_text_transform": "capitalize",
+                                                "__globals__": {
+                                                    "title_color": "globals\/colors?id=8608fea"
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "24",
+                                                    "left": "0",
+                                                    "isLinked": ""
+                                                },
+                                                "_element_width": "auto",
+                                                "typography_line_height": {
+                                                    "unit": "px",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "typography_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": "2",
+                                                    "sizes": []
+                                                },
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "46e77d9d",
+                                            "settings": {
+                                                "title": "Let\u2019s Go Back To Astana Property",
+                                                "__globals__": {
+                                                    "title_color": "globals\/colors?id=75c6033"
+                                                },
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "64f92bec",
+                                            "settings": {
+                                                "__globals__": {
+                                                    "text_color": "globals\/colors?id=75c6033"
+                                                },
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "3c82c233",
+                                            "settings": {
+                                                "selected_icon": {
+                                                    "value": "icon icon-play",
+                                                    "library": "ekiticons"
+                                                },
+                                                "title_text": "Play video",
+                                                "description_text": "",
+                                                "link": {
+                                                    "url": "#",
+                                                    "is_external": "",
+                                                    "nofollow": "",
+                                                    "custom_attributes": ""
+                                                },
+                                                "position": "left",
+                                                "icon_size": {
+                                                    "unit": "px",
+                                                    "size": "45",
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "primary_color": "globals\/colors?id=75c6033",
+                                                    "title_color": "globals\/colors?id=75c6033",
+                                                    "hover_primary_color": "globals\/colors?id=accent"
+                                                },
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "icon-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "5c6a0d24",
+                                    "settings": {
+                                        "_column_size": "50"
+                                    },
+                                    "elements": [],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": "1",
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                }
+            ],
+            "isInner": "",
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "hide_title": "yes"
+    }
+}

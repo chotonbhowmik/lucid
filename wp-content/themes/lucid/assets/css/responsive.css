@@ -1,0 +1,149 @@
+/* Tablet View */
+@media ( min-width: 577px ) and (max-width: 768px){
+	.navbar-light .navbar-toggler {
+	    color: #fff;
+	    border-color: #fff;
+	}
+	.fa-bars{
+		font-size: 25px;
+	}
+	.header-section .navbar-light 
+	.navbar-nav .nav-link:hover {
+	    background: url(../img/divider.png) left bottom no-repeat;
+	}
+	.banner-content {
+	    padding: 100px 0px;
+	    text-align: center;
+	}
+	.header-section .navbar-light .navbar-nav .active>.nav-link {
+	    background: url(../img/divider.png) left bottom no-repeat;
+	}
+	.features-section {
+	    padding: 50px 0px;
+	}
+	.inner-content {
+	    padding: 20px 40px;
+	}
+	.about-section {
+	    padding: 40px 0px;
+	    text-align: center;
+	}
+	.divider-l {
+	    background: url(../img/divider.png) center no-repeat;
+	}
+	.custom-img{
+		max-width: 100%;
+		height: auto;
+	}
+	.testimonial-section {
+	    padding: 60px 0;
+	}
+	.owl-carousel .owl-item img {
+    	display: block;
+    	width: 40px;
+	    margin: 0 auto;
+	}
+	.owl-carousel .item h4 {
+	    text-align: center;
+	}
+	.client-details h5,
+	.client-details h6 {
+	    text-align: center;
+	}
+	.owl-theme .owl-nav.disabled+.owl-dots {
+	    margin-top: 25px;
+	}
+	.download-section {
+	    padding: 40px 0;
+	    text-align: center;
+	}
+	.download-section .btn{
+		margin-top: 25px;
+	}
+	.pricing-table {
+	    border: 1px solid #ededed;
+	    margin-bottom: 50px;
+	}
+	.table-pricing h2::before {
+	    content: "$";
+	    position: absolute;
+	    left: 75px;
+	}
+}
+
+/* Mobile View */
+@media screen and (max-width: 576px){
+	.navbar-light .navbar-toggler {
+	    color: #fff;
+	    border-color: #fff;
+	}
+	.fa-bars{
+		font-size: 25px;
+	}
+	.header-section .navbar-light 
+	.navbar-nav .nav-link:hover {
+	    background: url(../img/divider.png) left bottom no-repeat;
+	}
+	.banner-content {
+	    padding: 100px 0px;
+	    text-align: center;
+	}
+	.banner-content .extra{
+		margin-left: 5px;
+	}
+
+	.header-section .navbar-light .navbar-nav .active>.nav-link {
+	    background: url(../img/divider.png) left bottom no-repeat;
+	}
+	.features-section {
+	    padding: 50px 0px;
+	}
+	.inner-content {
+	    padding: 20px 40px;
+	}
+	.about-section {
+	    padding: 40px 0px;
+	    text-align: center;
+	}
+	.divider-l {
+	    background: url(../img/divider.png) center no-repeat;
+	}
+	.custom-img{
+		max-width: 100%;
+		height: auto;
+	}
+	.testimonial-section {
+	    padding: 60px 0;
+	}
+	.owl-carousel .owl-item img {
+    	display: block;
+    	width: 40px;
+	    margin: 0 auto;
+	}
+	.owl-carousel .item h4 {
+	    text-align: center;
+	}
+	.client-details h5,
+	.client-details h6 {
+	    text-align: center;
+	}
+	.owl-theme .owl-nav.disabled+.owl-dots {
+	    margin-top: 25px;
+	}
+	.download-section {
+	    padding: 40px 0;
+	    text-align: center;
+	}
+	.download-section .btn{
+		margin-top: 25px;
+	}
+	.pricing-table {
+	    border: 1px solid #ededed;
+	    margin-bottom: 50px;
+	}
+	.table-pricing h2::before {
+	    content: "$";
+	    position: absolute;
+	    left: 75px;
+	}
+}

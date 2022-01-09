@@ -1,0 +1,1547 @@
+{
+    "version": "0.4",
+    "title": "Portfolio",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "20689295",
+            "settings": {
+                "background_background": "classic",
+                "background_image": {
+                    "url": "http:\/\/hn.arrowpress.net\/bakery-kit\/wp-content\/uploads\/2020\/09\/img-banner-v2.jpg",
+                    "id": 1363
+                },
+                "background_overlay_background": "classic",
+                "background_overlay_color": "#000000",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.6,
+                    "sizes": []
+                },
+                "gap": "no",
+                "padding": {
+                    "unit": "px",
+                    "top": "235",
+                    "right": "0",
+                    "bottom": "54",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "background_repeat": "no-repeat",
+                "content_width": {
+                    "unit": "px",
+                    "size": 1200,
+                    "sizes": []
+                },
+                "stretch_section": "section-stretched",
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "150",
+                    "right": "0",
+                    "bottom": "60",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "background_position": "bottom right",
+                "background_size": "cover"
+            },
+            "elements": [
+                {
+                    "id": "67c6ff77",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": 100,
+                        "space_between_widgets": 0,
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "15",
+                            "bottom": "0",
+                            "left": "15",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "163d1176",
+                            "settings": {
+                                "title": "Portfolio",
+                                "header_size": "h1",
+                                "title_color": "#FFFFFF",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Oswald",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 140,
+                                    "sizes": []
+                                },
+                                "typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 80,
+                                    "sizes": []
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 60,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "400",
+                                "typography_text_transform": "uppercase",
+                                "typography_line_height": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "typography_line_height_tablet": {
+                                    "unit": "px",
+                                    "size": 80,
+                                    "sizes": []
+                                },
+                                "typography_line_height_mobile": {
+                                    "unit": "px",
+                                    "size": 60,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "15",
+                                    "left": "-9",
+                                    "isLinked": false
+                                },
+                                "_margin_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "15",
+                                    "left": "-6",
+                                    "isLinked": false
+                                },
+                                "_margin_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "15",
+                                    "left": "-4",
+                                    "isLinked": false
+                                },
+                                "__dynamic__": {
+                                    "title": "[elementor-tag id=\"ea47eff\" name=\"page-title\" settings=\"%7B%7D\"]"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "479c4518",
+                            "settings": {
+                                "editor": "<p>Amazing Bakery Kit<\/p>"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "59fa5bae",
+                            "settings": {
+                                "editor": "<p>Di Cantina Valpolicella Negrar \u00e8 la storia di uomini e donne dediti alla Nullam dui dolor, sagittis ut ante eget Aliquam erat volutpat. Vivamus tincidunt justo in eros cursus, et viverra elit dignissim. Nulla facilisi<\/p>",
+                                "text_color": "#C68D7A",
+                                "typography_typography": "custom",
+                                "typography_font_family": "Poppins",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": "14",
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "400",
+                                "typography_font_style": "italic",
+                                "typography_line_height": {
+                                    "unit": "px",
+                                    "size": 26,
+                                    "sizes": []
+                                },
+                                "_element_width": "initial",
+                                "_element_custom_width": {
+                                    "unit": "px",
+                                    "size": 470,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "text_color": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "20a78c54",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no",
+                "margin": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": 0,
+                    "bottom": "57",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "margin_tablet": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "margin_mobile": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "59192dab",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "408de138",
+                            "settings": {
+                                "content_width": {
+                                    "unit": "px",
+                                    "size": 1200,
+                                    "sizes": []
+                                },
+                                "gap": "no",
+                                "structure": "20",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": 0,
+                                    "bottom": "0",
+                                    "left": 0,
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "78aa65ac",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 66.7,
+                                        "space_between_widgets": 0,
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "15",
+                                            "bottom": "0",
+                                            "left": "15",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "f4db524",
+                                            "settings": {
+                                                "graphic_element": "none",
+                                                "selected_icon": {
+                                                    "value": "",
+                                                    "library": ""
+                                                },
+                                                "title_text_a": "",
+                                                "description_text_a": "",
+                                                "background_a_background": "classic",
+                                                "background_a_color": "#FFFFFF",
+                                                "background_a_image": {
+                                                    "url": "http:\/\/hn.arrowpress.net\/bakery-kit\/wp-content\/uploads\/2020\/09\/cake-and-cocoa-powder-PP4TYZW.jpg",
+                                                    "id": 737
+                                                },
+                                                "background_a_position": "center center",
+                                                "background_a_repeat": "no-repeat",
+                                                "background_a_size": "cover",
+                                                "title_text_b": "Cake And Cocoa Powder",
+                                                "description_text_b": "CAKE DESIGN 2020",
+                                                "button_text": "",
+                                                "background_b_background": "classic",
+                                                "background_b_color": "#020101A1",
+                                                "background_b_image": {
+                                                    "url": "http:\/\/hn.arrowpress.net\/bakery-kit\/wp-content\/uploads\/2020\/09\/cake-and-cocoa-powder-PP4TYZW.jpg",
+                                                    "id": 737
+                                                },
+                                                "background_b_position": "center center",
+                                                "background_b_repeat": "no-repeat",
+                                                "background_b_size": "cover",
+                                                "background_overlay_b": "#FFFFFFE6",
+                                                "height": {
+                                                    "unit": "px",
+                                                    "size": 770,
+                                                    "sizes": []
+                                                },
+                                                "flip_effect": "fade",
+                                                "padding_b": {
+                                                    "unit": "px",
+                                                    "top": "42",
+                                                    "right": "40",
+                                                    "bottom": "42",
+                                                    "left": "40",
+                                                    "isLinked": false
+                                                },
+                                                "alignment_b": "left",
+                                                "vertical_position_b": "top",
+                                                "title_typography_b_typography": "custom",
+                                                "title_typography_b_font_family": "Poppins",
+                                                "title_typography_b_font_size": {
+                                                    "unit": "px",
+                                                    "size": 30,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_b_font_weight": "900",
+                                                "title_typography_b_line_height": {
+                                                    "unit": "px",
+                                                    "size": 1.2,
+                                                    "sizes": []
+                                                },
+                                                "description_color_b": "#A1A1A1",
+                                                "description_typography_b_typography": "custom",
+                                                "description_typography_b_font_family": "Oswald",
+                                                "description_typography_b_font_size": {
+                                                    "unit": "px",
+                                                    "size": 12,
+                                                    "sizes": []
+                                                },
+                                                "description_typography_b_font_weight": "400",
+                                                "description_typography_b_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": 5,
+                                                    "sizes": []
+                                                },
+                                                "_margin_mobile": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "30",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "__globals__": {
+                                                    "description_typography_b_typography": "",
+                                                    "description_color_b": "globals\/colors?id=text",
+                                                    "title_typography_b_typography": ""
+                                                },
+                                                "height_tablet": {
+                                                    "unit": "px",
+                                                    "size": 500,
+                                                    "sizes": []
+                                                },
+                                                "height_mobile": {
+                                                    "unit": "px",
+                                                    "size": 300,
+                                                    "sizes": []
+                                                },
+                                                "_margin_tablet": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "link": {
+                                                    "url": "#",
+                                                    "is_external": "",
+                                                    "nofollow": "",
+                                                    "custom_attributes": ""
+                                                },
+                                                "link_click": "box"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "flip-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "7cff5325",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 33.3,
+                                        "space_between_widgets": 0,
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "15",
+                                            "bottom": "0",
+                                            "left": "15",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "1d4b7404",
+                                            "settings": {
+                                                "graphic_element": "none",
+                                                "selected_icon": {
+                                                    "value": "",
+                                                    "library": ""
+                                                },
+                                                "title_text_a": "",
+                                                "description_text_a": "",
+                                                "background_a_background": "classic",
+                                                "background_a_color": "#FFFFFF",
+                                                "background_a_image": {
+                                                    "url": "http:\/\/hn.arrowpress.net\/bakery-kit\/wp-content\/uploads\/2020\/09\/freshly-baked-homemade-chocolate-banana-bread-cake-PWKK9HB.jpg",
+                                                    "id": 741
+                                                },
+                                                "background_a_position": "center center",
+                                                "background_a_size": "cover",
+                                                "title_text_b": "chocolate banana sandwiches",
+                                                "description_text_b": "CAKE DESIGN 2020",
+                                                "button_text": "",
+                                                "background_b_background": "classic",
+                                                "background_b_color": "#020101A1",
+                                                "background_b_image": {
+                                                    "url": "http:\/\/hn.arrowpress.net\/bakery-kit\/wp-content\/uploads\/2020\/09\/freshly-baked-homemade-chocolate-banana-bread-cake-PWKK9HB.jpg",
+                                                    "id": 741
+                                                },
+                                                "background_b_position": "center center",
+                                                "background_b_repeat": "no-repeat",
+                                                "background_b_size": "cover",
+                                                "background_overlay_b": "#FFFFFFE6",
+                                                "height": {
+                                                    "unit": "px",
+                                                    "size": 370,
+                                                    "sizes": []
+                                                },
+                                                "flip_effect": "fade",
+                                                "padding_b": {
+                                                    "unit": "px",
+                                                    "top": "42",
+                                                    "right": "40",
+                                                    "bottom": "42",
+                                                    "left": "40",
+                                                    "isLinked": false
+                                                },
+                                                "alignment_b": "left",
+                                                "vertical_position_b": "top",
+                                                "title_typography_b_typography": "custom",
+                                                "title_typography_b_font_family": "Poppins",
+                                                "title_typography_b_font_size": {
+                                                    "unit": "px",
+                                                    "size": 30,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_b_font_weight": "900",
+                                                "title_typography_b_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1.2,
+                                                    "sizes": []
+                                                },
+                                                "description_color_b": "#A1A1A1",
+                                                "description_typography_b_typography": "custom",
+                                                "description_typography_b_font_family": "Oswald",
+                                                "description_typography_b_font_size": {
+                                                    "unit": "px",
+                                                    "size": 12,
+                                                    "sizes": []
+                                                },
+                                                "description_typography_b_font_weight": "400",
+                                                "description_typography_b_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": 5,
+                                                    "sizes": []
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "30",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "__globals__": {
+                                                    "description_typography_b_typography": "",
+                                                    "description_color_b": "globals\/colors?id=text",
+                                                    "title_typography_b_typography": ""
+                                                },
+                                                "height_tablet": {
+                                                    "unit": "px",
+                                                    "size": 235,
+                                                    "sizes": []
+                                                },
+                                                "height_mobile": {
+                                                    "unit": "px",
+                                                    "size": 300,
+                                                    "sizes": []
+                                                },
+                                                "padding_b_tablet": {
+                                                    "unit": "px",
+                                                    "top": "40",
+                                                    "right": "30",
+                                                    "bottom": "40",
+                                                    "left": "30",
+                                                    "isLinked": false
+                                                },
+                                                "title_typography_b_line_height_tablet": {
+                                                    "unit": "em",
+                                                    "size": 1.2,
+                                                    "sizes": []
+                                                },
+                                                "link": {
+                                                    "url": "#",
+                                                    "is_external": "",
+                                                    "nofollow": "",
+                                                    "custom_attributes": ""
+                                                },
+                                                "link_click": "box"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "flip-box",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "781af111",
+                                            "settings": {
+                                                "graphic_element": "none",
+                                                "selected_icon": {
+                                                    "value": "",
+                                                    "library": ""
+                                                },
+                                                "title_text_a": "",
+                                                "description_text_a": "",
+                                                "background_a_background": "classic",
+                                                "background_a_color": "#FFFFFF",
+                                                "background_a_image": {
+                                                    "url": "http:\/\/hn.arrowpress.net\/bakery-kit\/wp-content\/uploads\/2020\/09\/table-with-various-cookies-tarts-cakesxc-cupcakes-an-PARM8L9.jpg",
+                                                    "id": 1585
+                                                },
+                                                "background_a_position": "center center",
+                                                "background_a_size": "cover",
+                                                "title_text_b": "cake cupcakes",
+                                                "description_text_b": "CAKE DESIGN 2020",
+                                                "button_text": "",
+                                                "background_b_background": "classic",
+                                                "background_b_color": "#020101A1",
+                                                "background_b_image": {
+                                                    "url": "http:\/\/hn.arrowpress.net\/bakery-kit\/wp-content\/uploads\/2020\/09\/table-with-various-cookies-tarts-cakes-cupcakedvs-an-PARM8L9.jpg",
+                                                    "id": 474
+                                                },
+                                                "background_b_position": "center center",
+                                                "background_b_repeat": "no-repeat",
+                                                "background_b_size": "cover",
+                                                "background_overlay_b": "#FFFFFFE6",
+                                                "height": {
+                                                    "unit": "px",
+                                                    "size": 370,
+                                                    "sizes": []
+                                                },
+                                                "flip_effect": "fade",
+                                                "padding_b": {
+                                                    "unit": "px",
+                                                    "top": "42",
+                                                    "right": "40",
+                                                    "bottom": "42",
+                                                    "left": "40",
+                                                    "isLinked": false
+                                                },
+                                                "alignment_b": "left",
+                                                "vertical_position_b": "top",
+                                                "title_typography_b_typography": "custom",
+                                                "title_typography_b_font_family": "Poppins",
+                                                "title_typography_b_font_size": {
+                                                    "unit": "px",
+                                                    "size": 30,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_b_font_weight": "900",
+                                                "title_typography_b_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1.2,
+                                                    "sizes": []
+                                                },
+                                                "description_color_b": "#A1A1A1",
+                                                "description_typography_b_typography": "custom",
+                                                "description_typography_b_font_family": "Oswald",
+                                                "description_typography_b_font_size": {
+                                                    "unit": "px",
+                                                    "size": 12,
+                                                    "sizes": []
+                                                },
+                                                "description_typography_b_font_weight": "400",
+                                                "description_typography_b_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": 5,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "description_typography_b_typography": "",
+                                                    "description_color_b": "globals\/colors?id=text",
+                                                    "title_typography_b_typography": ""
+                                                },
+                                                "height_tablet": {
+                                                    "unit": "px",
+                                                    "size": 235,
+                                                    "sizes": []
+                                                },
+                                                "height_mobile": {
+                                                    "unit": "px",
+                                                    "size": 300,
+                                                    "sizes": []
+                                                },
+                                                "padding_b_tablet": {
+                                                    "unit": "px",
+                                                    "top": "40",
+                                                    "right": "30",
+                                                    "bottom": "40",
+                                                    "left": "30",
+                                                    "isLinked": false
+                                                },
+                                                "title_typography_b_line_height_tablet": {
+                                                    "unit": "em",
+                                                    "size": 1.2,
+                                                    "sizes": []
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                },
+                                                "_margin_tablet": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "link": {
+                                                    "url": "#",
+                                                    "is_external": "",
+                                                    "nofollow": "",
+                                                    "custom_attributes": ""
+                                                },
+                                                "link_click": "box"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "flip-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "552e28ea",
+                            "settings": {
+                                "content_width": {
+                                    "unit": "px",
+                                    "size": 1200,
+                                    "sizes": []
+                                },
+                                "gap": "no",
+                                "structure": "20",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": 0,
+                                    "bottom": "30",
+                                    "left": 0,
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "4d8d7d0b",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 33.3,
+                                        "space_between_widgets": 0,
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "15",
+                                            "bottom": "0",
+                                            "left": "15",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "7f6eb7d8",
+                                            "settings": {
+                                                "graphic_element": "none",
+                                                "selected_icon": {
+                                                    "value": "",
+                                                    "library": ""
+                                                },
+                                                "title_text_a": "",
+                                                "description_text_a": "",
+                                                "background_a_background": "classic",
+                                                "background_a_color": "#FFFFFF",
+                                                "background_a_image": {
+                                                    "url": "http:\/\/hn.arrowpress.net\/bakery-kit\/wp-content\/uploads\/2020\/09\/fruit-cake-PX9MPVR.jpg",
+                                                    "id": 448
+                                                },
+                                                "background_a_position": "center center",
+                                                "background_a_size": "cover",
+                                                "title_text_b": "fruit cake.",
+                                                "description_text_b": "CAKE DESIGN 2020",
+                                                "button_text": "",
+                                                "background_b_background": "classic",
+                                                "background_b_color": "#020101A1",
+                                                "background_b_image": {
+                                                    "url": "http:\/\/hn.arrowpress.net\/bakery-kit\/wp-content\/uploads\/2020\/09\/fruit-cake-PX9MPVR.jpg",
+                                                    "id": 448
+                                                },
+                                                "background_b_position": "center center",
+                                                "background_b_repeat": "no-repeat",
+                                                "background_b_size": "cover",
+                                                "background_overlay_b": "#FFFFFFE6",
+                                                "height": {
+                                                    "unit": "px",
+                                                    "size": 370,
+                                                    "sizes": []
+                                                },
+                                                "flip_effect": "fade",
+                                                "padding_b": {
+                                                    "unit": "px",
+                                                    "top": "42",
+                                                    "right": "40",
+                                                    "bottom": "42",
+                                                    "left": "40",
+                                                    "isLinked": false
+                                                },
+                                                "alignment_b": "left",
+                                                "vertical_position_b": "top",
+                                                "title_typography_b_typography": "custom",
+                                                "title_typography_b_font_family": "Poppins",
+                                                "title_typography_b_font_size": {
+                                                    "unit": "px",
+                                                    "size": 30,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_b_font_weight": "900",
+                                                "title_typography_b_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1.2,
+                                                    "sizes": []
+                                                },
+                                                "description_color_b": "#A1A1A1",
+                                                "description_typography_b_typography": "custom",
+                                                "description_typography_b_font_family": "Oswald",
+                                                "description_typography_b_font_size": {
+                                                    "unit": "px",
+                                                    "size": 12,
+                                                    "sizes": []
+                                                },
+                                                "description_typography_b_font_weight": "400",
+                                                "description_typography_b_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": 5,
+                                                    "sizes": []
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "30",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "__globals__": {
+                                                    "description_typography_b_typography": "",
+                                                    "description_color_b": "globals\/colors?id=text",
+                                                    "title_typography_b_typography": ""
+                                                },
+                                                "height_tablet": {
+                                                    "unit": "px",
+                                                    "size": 235,
+                                                    "sizes": []
+                                                },
+                                                "height_mobile": {
+                                                    "unit": "px",
+                                                    "size": 300,
+                                                    "sizes": []
+                                                },
+                                                "padding_b_tablet": {
+                                                    "unit": "px",
+                                                    "top": "40",
+                                                    "right": "30",
+                                                    "bottom": "40",
+                                                    "left": "30",
+                                                    "isLinked": false
+                                                },
+                                                "title_typography_b_line_height_tablet": {
+                                                    "unit": "em",
+                                                    "size": 1.2,
+                                                    "sizes": []
+                                                },
+                                                "link": {
+                                                    "url": "#",
+                                                    "is_external": "",
+                                                    "nofollow": "",
+                                                    "custom_attributes": ""
+                                                },
+                                                "link_click": "box"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "flip-box",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "25dd8ea4",
+                                            "settings": {
+                                                "graphic_element": "none",
+                                                "selected_icon": {
+                                                    "value": "",
+                                                    "library": ""
+                                                },
+                                                "title_text_a": "",
+                                                "description_text_a": "",
+                                                "background_a_background": "classic",
+                                                "background_a_color": "#FFFFFF",
+                                                "background_a_image": {
+                                                    "url": "http:\/\/hn.arrowpress.net\/bakery-kit\/wp-content\/uploads\/2020\/09\/beautiful-woman-preparing-cookies-and-muffins-Q22QSQ4.jpg",
+                                                    "id": 1019
+                                                },
+                                                "background_a_position": "center center",
+                                                "background_a_size": "cover",
+                                                "title_text_b": "cookies and muffins.",
+                                                "description_text_b": "CAKE DESIGN 2020",
+                                                "button_text": "",
+                                                "background_b_background": "classic",
+                                                "background_b_color": "#020101A1",
+                                                "background_b_image": {
+                                                    "url": "http:\/\/hn.arrowpress.net\/bakery-kit\/wp-content\/uploads\/2020\/09\/beautiful-woman-preparing-cookies-and-muffins-Q22QSQ4.jpg",
+                                                    "id": 1019
+                                                },
+                                                "background_b_position": "center center",
+                                                "background_b_repeat": "no-repeat",
+                                                "background_b_size": "cover",
+                                                "background_overlay_b": "#FFFFFFE6",
+                                                "height": {
+                                                    "unit": "px",
+                                                    "size": 370,
+                                                    "sizes": []
+                                                },
+                                                "flip_effect": "fade",
+                                                "padding_b": {
+                                                    "unit": "px",
+                                                    "top": "42",
+                                                    "right": "40",
+                                                    "bottom": "42",
+                                                    "left": "40",
+                                                    "isLinked": false
+                                                },
+                                                "alignment_b": "left",
+                                                "vertical_position_b": "top",
+                                                "title_typography_b_typography": "custom",
+                                                "title_typography_b_font_family": "Poppins",
+                                                "title_typography_b_font_size": {
+                                                    "unit": "px",
+                                                    "size": 30,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_b_font_weight": "900",
+                                                "title_typography_b_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1.2,
+                                                    "sizes": []
+                                                },
+                                                "description_color_b": "#A1A1A1",
+                                                "description_typography_b_typography": "custom",
+                                                "description_typography_b_font_family": "Oswald",
+                                                "description_typography_b_font_size": {
+                                                    "unit": "px",
+                                                    "size": 12,
+                                                    "sizes": []
+                                                },
+                                                "description_typography_b_font_weight": "400",
+                                                "description_typography_b_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": 5,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "description_typography_b_typography": "",
+                                                    "description_color_b": "globals\/colors?id=text",
+                                                    "title_typography_b_typography": ""
+                                                },
+                                                "height_tablet": {
+                                                    "unit": "px",
+                                                    "size": 235,
+                                                    "sizes": []
+                                                },
+                                                "height_mobile": {
+                                                    "unit": "px",
+                                                    "size": 300,
+                                                    "sizes": []
+                                                },
+                                                "padding_b_tablet": {
+                                                    "unit": "px",
+                                                    "top": "40",
+                                                    "right": "30",
+                                                    "bottom": "40",
+                                                    "left": "30",
+                                                    "isLinked": false
+                                                },
+                                                "title_typography_b_line_height_tablet": {
+                                                    "unit": "em",
+                                                    "size": 1.2,
+                                                    "sizes": []
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                },
+                                                "_margin_tablet": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "link": {
+                                                    "url": "#",
+                                                    "is_external": "",
+                                                    "nofollow": "",
+                                                    "custom_attributes": ""
+                                                },
+                                                "link_click": "box"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "flip-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "4c8a58b7",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 66.7,
+                                        "space_between_widgets": 0,
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "15",
+                                            "bottom": "0",
+                                            "left": "15",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "359a1216",
+                                            "settings": {
+                                                "graphic_element": "none",
+                                                "selected_icon": {
+                                                    "value": "",
+                                                    "library": ""
+                                                },
+                                                "title_text_a": "",
+                                                "description_text_a": "",
+                                                "background_a_background": "classic",
+                                                "background_a_color": "#FFFFFF",
+                                                "background_a_image": {
+                                                    "url": "http:\/\/hn.arrowpress.net\/bakery-kit\/wp-content\/uploads\/2020\/09\/homemade-banana-bread-bakeder-cake-top-view-white-ta-NNW38MF_03.png",
+                                                    "id": 1374
+                                                },
+                                                "background_a_position": "center center",
+                                                "background_a_repeat": "no-repeat",
+                                                "background_a_size": "cover",
+                                                "title_text_b": "baked banana cake.",
+                                                "description_text_b": "CAKE DESIGN 2020",
+                                                "button_text": "",
+                                                "background_b_background": "classic",
+                                                "background_b_color": "#020101A1",
+                                                "background_b_image": {
+                                                    "url": "http:\/\/hn.arrowpress.net\/bakery-kit\/wp-content\/uploads\/2020\/09\/homemade-banana-bread-bakeder-cake-top-view-white-ta-NNW38MF_03.png",
+                                                    "id": 1374
+                                                },
+                                                "background_b_position": "center center",
+                                                "background_b_repeat": "no-repeat",
+                                                "background_b_size": "cover",
+                                                "background_overlay_b": "#FFFFFFE6",
+                                                "height": {
+                                                    "unit": "px",
+                                                    "size": 770,
+                                                    "sizes": []
+                                                },
+                                                "flip_effect": "fade",
+                                                "padding_b": {
+                                                    "unit": "px",
+                                                    "top": "42",
+                                                    "right": "40",
+                                                    "bottom": "42",
+                                                    "left": "40",
+                                                    "isLinked": false
+                                                },
+                                                "alignment_b": "left",
+                                                "vertical_position_b": "top",
+                                                "title_typography_b_typography": "custom",
+                                                "title_typography_b_font_family": "Poppins",
+                                                "title_typography_b_font_size": {
+                                                    "unit": "px",
+                                                    "size": 30,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_b_font_weight": "900",
+                                                "title_typography_b_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1.2,
+                                                    "sizes": []
+                                                },
+                                                "description_color_b": "#A1A1A1",
+                                                "description_typography_b_typography": "custom",
+                                                "description_typography_b_font_family": "Oswald",
+                                                "description_typography_b_font_size": {
+                                                    "unit": "px",
+                                                    "size": 12,
+                                                    "sizes": []
+                                                },
+                                                "description_typography_b_font_weight": "400",
+                                                "description_typography_b_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": 5,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "description_typography_b_typography": "",
+                                                    "description_color_b": "globals\/colors?id=text",
+                                                    "title_typography_b_typography": ""
+                                                },
+                                                "height_tablet": {
+                                                    "unit": "px",
+                                                    "size": 500,
+                                                    "sizes": []
+                                                },
+                                                "height_mobile": {
+                                                    "unit": "px",
+                                                    "size": 300,
+                                                    "sizes": []
+                                                },
+                                                "link": {
+                                                    "url": "#",
+                                                    "is_external": "",
+                                                    "nofollow": "",
+                                                    "custom_attributes": ""
+                                                },
+                                                "link_click": "box"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "flip-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "1e73cdb1",
+                            "settings": {
+                                "content_width": {
+                                    "unit": "px",
+                                    "size": 1200,
+                                    "sizes": []
+                                },
+                                "gap": "no",
+                                "structure": "20",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": 0,
+                                    "bottom": "0",
+                                    "left": 0,
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "199ec461",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 66.7,
+                                        "space_between_widgets": 0,
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "15",
+                                            "bottom": "0",
+                                            "left": "15",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "1d87df9b",
+                                            "settings": {
+                                                "graphic_element": "none",
+                                                "selected_icon": {
+                                                    "value": "",
+                                                    "library": ""
+                                                },
+                                                "title_text_a": "",
+                                                "description_text_a": "",
+                                                "background_a_background": "classic",
+                                                "background_a_color": "#FFFFFF",
+                                                "background_a_image": {
+                                                    "url": "http:\/\/hn.arrowpress.net\/bakery-kit\/wp-content\/uploads\/2020\/09\/cake-XD6MWQT.jpg",
+                                                    "id": 932
+                                                },
+                                                "background_a_position": "center center",
+                                                "background_a_repeat": "no-repeat",
+                                                "background_a_size": "cover",
+                                                "title_text_b": "chocolate candy.",
+                                                "description_text_b": "CAKE DESIGN 2020",
+                                                "button_text": "",
+                                                "background_b_background": "classic",
+                                                "background_b_color": "#020101A1",
+                                                "background_b_image": {
+                                                    "url": "http:\/\/hn.arrowpress.net\/bakery-kit\/wp-content\/uploads\/2020\/09\/cake-XD6MWQT.jpg",
+                                                    "id": 932
+                                                },
+                                                "background_b_position": "center center",
+                                                "background_b_repeat": "no-repeat",
+                                                "background_b_size": "cover",
+                                                "background_overlay_b": "#FFFFFFE6",
+                                                "height": {
+                                                    "unit": "px",
+                                                    "size": 370,
+                                                    "sizes": []
+                                                },
+                                                "flip_effect": "fade",
+                                                "padding_b": {
+                                                    "unit": "px",
+                                                    "top": "42",
+                                                    "right": "40",
+                                                    "bottom": "42",
+                                                    "left": "40",
+                                                    "isLinked": false
+                                                },
+                                                "alignment_b": "left",
+                                                "vertical_position_b": "top",
+                                                "title_typography_b_typography": "custom",
+                                                "title_typography_b_font_family": "Poppins",
+                                                "title_typography_b_font_size": {
+                                                    "unit": "px",
+                                                    "size": 30,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_b_font_weight": "900",
+                                                "title_typography_b_line_height": {
+                                                    "unit": "px",
+                                                    "size": "24",
+                                                    "sizes": []
+                                                },
+                                                "description_color_b": "#A1A1A1",
+                                                "description_typography_b_typography": "custom",
+                                                "description_typography_b_font_family": "Oswald",
+                                                "description_typography_b_font_size": {
+                                                    "unit": "px",
+                                                    "size": 12,
+                                                    "sizes": []
+                                                },
+                                                "description_typography_b_font_weight": "400",
+                                                "description_typography_b_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": 5,
+                                                    "sizes": []
+                                                },
+                                                "_margin_mobile": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "30",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "__globals__": {
+                                                    "description_typography_b_typography": "",
+                                                    "description_color_b": "globals\/colors?id=text",
+                                                    "title_typography_b_typography": ""
+                                                },
+                                                "height_tablet": {
+                                                    "unit": "px",
+                                                    "size": 300,
+                                                    "sizes": []
+                                                },
+                                                "height_mobile": {
+                                                    "unit": "px",
+                                                    "size": 300,
+                                                    "sizes": []
+                                                },
+                                                "link": {
+                                                    "url": "#",
+                                                    "is_external": "",
+                                                    "nofollow": "",
+                                                    "custom_attributes": ""
+                                                },
+                                                "link_click": "box"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "flip-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "6edabf1c",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 33.3,
+                                        "space_between_widgets": 0,
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "15",
+                                            "bottom": "0",
+                                            "left": "15",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "145f778a",
+                                            "settings": {
+                                                "graphic_element": "none",
+                                                "selected_icon": {
+                                                    "value": "",
+                                                    "library": ""
+                                                },
+                                                "title_text_a": "",
+                                                "description_text_a": "",
+                                                "background_a_background": "classic",
+                                                "background_a_color": "#FFFFFF",
+                                                "background_a_image": {
+                                                    "url": "http:\/\/hn.arrowpress.net\/bakery-kit\/wp-content\/uploads\/2020\/09\/banana-muffin-cupcakes-in-blue-cake-cases-paper-wh-TXJHDYF_03.jpg",
+                                                    "id": 1588
+                                                },
+                                                "background_a_position": "center center",
+                                                "background_a_size": "cover",
+                                                "title_text_b": "Banana muffins.",
+                                                "description_text_b": "Cake DESIGN 2020",
+                                                "button_text": "",
+                                                "background_b_background": "classic",
+                                                "background_b_color": "#020101A1",
+                                                "background_b_image": {
+                                                    "url": "http:\/\/hn.arrowpress.net\/bakery-kit\/wp-content\/uploads\/2020\/09\/banana-muffin-cupcakes-in-blue-cake-cases-paper-wh-TXJHDYF_03.png",
+                                                    "id": 440
+                                                },
+                                                "background_b_position": "center center",
+                                                "background_b_repeat": "no-repeat",
+                                                "background_b_size": "cover",
+                                                "background_overlay_b": "#FFFFFFE6",
+                                                "height": {
+                                                    "unit": "px",
+                                                    "size": 370,
+                                                    "sizes": []
+                                                },
+                                                "flip_effect": "fade",
+                                                "padding_b": {
+                                                    "unit": "px",
+                                                    "top": "42",
+                                                    "right": "40",
+                                                    "bottom": "42",
+                                                    "left": "40",
+                                                    "isLinked": false
+                                                },
+                                                "alignment_b": "left",
+                                                "vertical_position_b": "top",
+                                                "title_typography_b_typography": "custom",
+                                                "title_typography_b_font_family": "Poppins",
+                                                "title_typography_b_font_size": {
+                                                    "unit": "px",
+                                                    "size": 30,
+                                                    "sizes": []
+                                                },
+                                                "title_typography_b_font_weight": "900",
+                                                "title_typography_b_line_height": {
+                                                    "unit": "em",
+                                                    "size": 1.2,
+                                                    "sizes": []
+                                                },
+                                                "description_color_b": "#A1A1A1",
+                                                "description_typography_b_typography": "custom",
+                                                "description_typography_b_font_family": "Oswald",
+                                                "description_typography_b_font_size": {
+                                                    "unit": "px",
+                                                    "size": 12,
+                                                    "sizes": []
+                                                },
+                                                "description_typography_b_font_weight": "400",
+                                                "description_typography_b_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": 5,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "description_typography_b_typography": "",
+                                                    "description_color_b": "globals\/colors?id=text",
+                                                    "title_typography_b_typography": ""
+                                                },
+                                                "height_tablet": {
+                                                    "unit": "px",
+                                                    "size": 300,
+                                                    "sizes": []
+                                                },
+                                                "height_mobile": {
+                                                    "unit": "px",
+                                                    "size": 300,
+                                                    "sizes": []
+                                                },
+                                                "padding_b_tablet": {
+                                                    "unit": "px",
+                                                    "top": "40",
+                                                    "right": "30",
+                                                    "bottom": "40",
+                                                    "left": "30",
+                                                    "isLinked": false
+                                                },
+                                                "title_typography_b_line_height_tablet": {
+                                                    "unit": "em",
+                                                    "size": 1.2,
+                                                    "sizes": []
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "30",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "_margin_tablet": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "link": {
+                                                    "url": "#",
+                                                    "is_external": "",
+                                                    "nofollow": "",
+                                                    "custom_attributes": ""
+                                                },
+                                                "link_click": "box"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "flip-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "122f97c3",
+            "settings": {
+                "gap": "no",
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "80",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "margin_tablet": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": 0,
+                    "bottom": "60",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "margin_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "50",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "content_width": {
+                    "unit": "px",
+                    "size": 1200,
+                    "sizes": []
+                }
+            },
+            "elements": [
+                {
+                    "id": "18d14dce",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "space_between_widgets": 0,
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "15",
+                            "bottom": "0",
+                            "left": "15",
+                            "isLinked": false
+                        },
+                        "space_between_widgets_mobile": 0
+                    },
+                    "elements": [
+                        {
+                            "id": "6346b17",
+                            "settings": {
+                                "carousel": [
+                                    {
+                                        "id": 408,
+                                        "url": "http:\/\/hn.arrowpress.net\/bakery-kit\/wp-content\/uploads\/2020\/09\/Cupcakes_-26_01-2.png"
+                                    },
+                                    {
+                                        "id": 409,
+                                        "url": "http:\/\/hn.arrowpress.net\/bakery-kit\/wp-content\/uploads\/2020\/09\/Cupcakes_-39_01-2.png"
+                                    },
+                                    {
+                                        "id": 410,
+                                        "url": "http:\/\/hn.arrowpress.net\/bakery-kit\/wp-content\/uploads\/2020\/09\/Cupcakes_-43_01-2.png"
+                                    },
+                                    {
+                                        "id": 411,
+                                        "url": "http:\/\/hn.arrowpress.net\/bakery-kit\/wp-content\/uploads\/2020\/09\/Cupcakes_-45_01-1.png"
+                                    },
+                                    {
+                                        "id": 412,
+                                        "url": "http:\/\/hn.arrowpress.net\/bakery-kit\/wp-content\/uploads\/2020\/09\/Cupcakes_-48_01-2.png"
+                                    }
+                                ],
+                                "thumbnail_size": "custom",
+                                "thumbnail_custom_dimension": {
+                                    "width": "100",
+                                    "height": ""
+                                },
+                                "slides_to_show": "5",
+                                "slides_to_scroll": "1",
+                                "navigation": "arrows",
+                                "link_to": "custom",
+                                "link": {
+                                    "url": "#",
+                                    "is_external": "",
+                                    "nofollow": "",
+                                    "custom_attributes": ""
+                                },
+                                "arrows_size": {
+                                    "unit": "px",
+                                    "size": 30,
+                                    "sizes": []
+                                },
+                                "arrows_color": "#DADADA",
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "45",
+                                    "right": "30",
+                                    "bottom": "35",
+                                    "left": "30",
+                                    "isLinked": false
+                                },
+                                "_border_border": "dashed",
+                                "_border_width": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "_border_color": "#EBEBEB",
+                                "slides_to_show_tablet": "3",
+                                "slides_to_show_mobile": "1"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image-carousel",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}
